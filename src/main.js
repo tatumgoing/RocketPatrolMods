@@ -1,3 +1,4 @@
+// Tatum Going, Rocket Patrol Mods, 4/16/2022, I spent about 8 hours on this project
 let config = {
     type: Phaser.CANVAS,
     width: 640,
